@@ -1,0 +1,1 @@
+This is my first React Native application...don't judge me I am proud of what I did. 
